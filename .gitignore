@@ -23,3 +23,7 @@ Cargo.lock
 # Added by cargo
 
 /target
+
+# generated files and directories
+/downloads
+/node_modules
